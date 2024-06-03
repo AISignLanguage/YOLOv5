@@ -1,0 +1,19 @@
+train: /
+val: /
+
+nc: 13
+names: [ 
+'best',
+'call',
+'fine',
+'happy',
+'heart',
+'hello',
+'iloveyou',
+'me',
+'meet',
+'peace',
+'see',
+'smile',
+'what'
+]
